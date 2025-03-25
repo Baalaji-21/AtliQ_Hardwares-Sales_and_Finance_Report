@@ -31,5 +31,5 @@ In this project, I created comprehensive sales and finance reports for AtliQ Har
 ## Soft Skills Showcased
 - Demonstrated a strong understanding of Sales and Finance report optimization. 
 - Designed user-centric reports with clear visualizations, ensuring accessibility and ease of interpretation.  
-- Optimizing report generation through fine-tuning.  
+- Optimized report generation through fine-tuning.  
 - Systematic report-building approach.  
