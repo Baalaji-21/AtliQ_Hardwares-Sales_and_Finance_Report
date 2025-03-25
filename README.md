@@ -20,7 +20,7 @@ In this project, I created comprehensive sales and finance reports for AtliQ Har
 
 ---
 
-## Technical Skills
+## Technical Expertise Demonstrated
 - Applied _**ETL methodology**_ (Extract, Transform, Load) to clean and transform data efficiently. 
 - Created date tables and derived fiscal months and quarters using _**Power Query**_.  
 - Established data model relationships in _**Power Pivot**_ to integrate supplementary data.  
@@ -28,8 +28,8 @@ In this project, I created comprehensive sales and finance reports for AtliQ Har
 
 ---
 
-## Soft Skills
-- Expertise in _**Sales & Finance reports**_.  
-- User-centric report design.  
+## Soft Skills Showcased
+- Demonstrated a strong understanding of Sales and Finance report optimization. 
+- Designed user-centric reports with clear visualizations, ensuring accessibility and ease of interpretation.  
 - Optimizing report generation through fine-tuning.  
 - Systematic report-building approach.  
